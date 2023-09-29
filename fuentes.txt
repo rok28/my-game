@@ -1,0 +1,6 @@
+https://github.com/pokepetter/ursina/blob/master/samples/minecraft_clone.py
+
+godot lenguaje para hacer juegos de verdad.
+blender.
+
+https://github.com/manzanero/my-game
